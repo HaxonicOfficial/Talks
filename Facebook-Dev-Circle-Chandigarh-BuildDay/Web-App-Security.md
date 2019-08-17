@@ -6,3 +6,6 @@
 3. Wireshark & TCP_DUMP
 4. SQL-MAP
 5. Bin-Walk. 
+
+## Required repo - *(fork it)*
+https://github.com/HaxonicOfficial/Vulnerable-Web-App-For-Pentesting
