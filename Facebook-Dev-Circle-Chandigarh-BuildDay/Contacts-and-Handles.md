@@ -14,7 +14,7 @@ Kamal Vaid  - https://twitter.com/cammykamal
 
 Raghavendra Jha - https://twitter.com/raghavjha987
 
-Bharat Agarwal - @bharatagsrwal
+Bharat Agarwal - https://twitter.com/bharatagsrwal
 
 Bhaskar Kumar - https://twitter.com/HaxonicOfficial
 
