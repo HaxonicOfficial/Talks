@@ -1,6 +1,6 @@
-#Session Notes - 
+# Session Notes - 
 
-##Required platform/ tools-
+## Required platform/ tools-
 1. Linux (Debian Distros is prefered)
 2. Burp Suite 
 3. Wireshark & TCP_DUMP
